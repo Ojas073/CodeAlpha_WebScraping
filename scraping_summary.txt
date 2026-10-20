@@ -1,0 +1,20 @@
+============================================================
+WEB SCRAPING PROJECT - SUMMARY REPORT
+============================================================
+Total books collected: 1000
+Average price: £35.07
+Minimum price: £10.00
+Maximum price: £59.99
+Average rating: 2.92/5
+Books marked in stock: 1000
+
+Rating distribution:
+Rating 1: 226 books
+Rating 2: 196 books
+Rating 3: 203 books
+Rating 4: 179 books
+Rating 5: 196 books
+
+Most expensive book: The Perfect Play (Play by Play #1) (£59.99)
+Cheapest book: An Abundance of Katherines (£10.00)
+============================================================
