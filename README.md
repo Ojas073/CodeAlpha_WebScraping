@@ -1,7 +1,7 @@
-# CodeAlpha Web Scraping Project
+#  Web Scraping Project
 
 ## 📌 Project Overview
-This project is developed as part of the CodeAlpha Data Analytics Internship.
+This project is developed my Data Analytics work .
 
 The objective is to extract book information from a public website using Python web scraping techniques and convert the collected information into a structured dataset for analysis.
 
@@ -39,7 +39,7 @@ Books to Scrape is a website designed for practicing web scraping.
 ## 📂 Project Structure
 
 ```text
-CodeAlpha_WebScraping/
+WebScraping/
 │
 ├── scraper.py
 ├── requirements.txt
